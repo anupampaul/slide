@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700');
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+#btn {
+    background: #b566ff;
+    color: oldlace;
+    width: 50px;
+}
+
+
+.text-center.content {
+    background: #e0ebeb;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.cls {
+    background: #ff6666;
+    margin-left: 20px;
+}
+
+.list {
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px dotted #e6e6e6;
+}
+
+.odd {
+    background: orange;
+    padding: 10px;
+}
+
+.even {
+    background: skyblue;
+    padding: 10px;
+}
+
+.first {
+    background: #b2dba1;
+    padding: 10px;
+}
+
+.last {
+    background: #f2dede;
+    padding: 10px;
+}
+
+.nth {
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+
+.this {
+   margin-top: 50px;
+   padding: 20px; 
+}
+
+
+.fn{
+border: 2px solid red;
+}
+
+.cmn{
+    margin: 50px;
+}
+
+.extra {
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.red {
+    background: #fffdf8;
+    border: 1px olid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px
+}
+
+.orange {
+    background: #fff791;
+    border: 1px olid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px
+}
+
+.green {
+    background: #ccffcc;
+    border: 1px olid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px
+}
